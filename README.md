@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=180&section=header&text=Carlos%20Rodr%C3%ADguez&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Ingenier%C3%ADa%20en%20Sistemas%20de%20la%20Informaci%C3%B3n%20%C2%B7%20UNA%20Costa%20Rica&descAlignY=57&descSize=16" width="100%" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coddily%20Studio-6366f1?style=for-the-badge&logo=astro&logoColor=white)](https://github.com/CarlosRTRT)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coddily%20Studio-6366f1?style=for-the-badge&logo=astro&logoColor=white)](https://coddily.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-rodriguez-901382321)
 [![Email](https://img.shields.io/badge/Email-Escribime-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.rodriguez.torres@est.una.ac.cr)
 
