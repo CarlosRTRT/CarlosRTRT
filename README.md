@@ -5,7 +5,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coddily%20Studio-6366f1?style=for-the-badge&logo=astro&logoColor=white)](https://github.com/CarlosRTRT)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-rodriguez-901382321)
 [![Email](https://img.shields.io/badge/Email-Escribime-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.rodriguez.torres@est.una.ac.cr)
-![Location](https://img.shields.io/badge/Gu%C3%A1piles,%20Lim%C3%B3n-Costa%20Rica-22c55e?style=for-the-badge)
 
 </div>
 
