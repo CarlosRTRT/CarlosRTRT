@@ -16,7 +16,7 @@
 Tercer año de **Ingeniería en Sistemas de la Información** en la Universidad Nacional de
 Costa Rica, con **más de 4 años** construyendo software por cuenta propia.
 
-Busco una posición de **mantenimiento web**: me gusta agarrar un sistema que ya vive en
+Lo que más me gusta es el **mantenimiento web**: agarrar un sistema que ya vive en
 producción, entender por qué hace lo que hace, y dejarlo más rápido, más seguro y más
 fácil de mantener que como lo encontré.
 
@@ -102,40 +102,19 @@ fácil de mantener que como lo encontré.
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CarlosRTRT&show_icons=true&hide_border=true&title_color=818cf8&icon_color=22d3ee&text_color=cbd5e1&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosRTRT&show_icons=true&hide_border=true&title_color=6366f1&icon_color=0891b2&text_color=334155&bg_color=ffffff" height="165" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRTRT&layout=compact&hide_border=true&title_color=818cf8&text_color=cbd5e1&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRTRT&layout=compact&hide_border=true&title_color=6366f1&text_color=334155&bg_color=ffffff" height="165" />
-</picture>
-
-</div>
-
----
-
 ## 🎓 Formación y extras
 
 | | |
 |---|---|
 | 🎓 **Universidad** | Ingeniería en Sistemas de la Información — UNA, tercer año |
 | 📜 **Certificaciones** | Git y GitHub (Alura) · AWS *(en curso)* |
-| 🌐 **Redes** | Conmutación, Enrutamiento y Redes Inalámbricas · Introducción a las Redes |
+| 🌐 **Redes** | Conmutación, Enrutamiento y Redes Inalámbricas · Introducción a las Redes — **UCR** |
 | 🗣️ **Idiomas** | Español (nativo) · Inglés (B2) |
 | 🏆 **Competencias** | HackDays · Programatón |
 
 ---
 
 <div align="center">
-
-### ¿Tenés un sitio que necesita mantenimiento?
-
-**[Escribime](mailto:carlos.rodriguez.torres@est.una.ac.cr)** — respondo rápido.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=120&section=footer" width="100%" />
 
