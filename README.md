@@ -69,7 +69,7 @@ fácil de mantener que como lo encontré.
 <tr>
 <td width="50%" valign="top">
 
-### 📅 Agendaio · `2026`
+### 📅 Agendaio · `2026` agenda-io.com
 
 **SaaS de reservas y agendamiento** para negocios de servicios, corriendo en producción.
 
@@ -84,7 +84,7 @@ fácil de mantener que como lo encontré.
 </td>
 <td width="50%" valign="top">
 
-### 🎨 Coddily Studio · `2025`
+### 🎨 Coddily Studio · `2025` coddily.com
 
 **Mi estudio web personal** — sitio de portafolio con foco en animación y rendimiento.
 
