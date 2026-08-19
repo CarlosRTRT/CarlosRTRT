@@ -69,7 +69,7 @@ fácil de mantener que como lo encontré.
 <tr>
 <td width="50%" valign="top">
 
-### 📅 Agendaio · `2026` agenda-io.com
+### 📅 <a href="https://agenda-io.com">Agendaio</a> · `2026`
 
 **SaaS de reservas y agendamiento** para negocios de servicios, corriendo en producción.
 
