@@ -84,7 +84,7 @@ fácil de mantener que como lo encontré.
 </td>
 <td width="50%" valign="top">
 
-### 🎨 Coddily Studio · `2025` <a href="https://coddily.com">coddily.com</a>
+### 🎨 · <a href="https://coddily.com">Coddily Studio</a> `2025`
 
 **Mi estudio web personal** — sitio de portafolio con foco en animación y rendimiento.
 
