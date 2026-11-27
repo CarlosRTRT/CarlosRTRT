@@ -3,8 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=180&section=header&text=Carlos%20Rodr%C3%ADguez&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Ingenier%C3%ADa%20en%20Sistemas%20de%20la%20Informaci%C3%B3n%20%C2%B7%20UNA%20Costa%20Rica&descAlignY=57&descSize=16" width="100%" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coddily%20Studio-6366f1?style=for-the-badge&logo=astro&logoColor=white)](https://coddily.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-rodriguez-901382321)
-[![Email](https://img.shields.io/badge/Email-Escribime-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.rodriguez.torres@est.una.ac.cr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosrodriguez-dev)
+[![Email](https://img.shields.io/badge/Email-Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.rodriguez.torres@est.una.ac.cr)
 
 </div>
 
@@ -12,8 +12,9 @@
 
 ## 🧭 Sobre mí
 
-Tercer año de **Ingeniería en Sistemas de la Información** en la Universidad Nacional de
-Costa Rica, con **más de 4 años** construyendo software por cuenta propia.
+Desarrollador **full-stack** de Costa Rica, con **más de 3 años** construyendo software.
+En 2025 fundé **[Coddily](https://coddily.com)**, un estudio donde hago productos propios y
+sistemas a la medida, de la base de datos al celular.
 
 Lo que más me gusta es el **mantenimiento web**: agarrar un sistema que ya vive en
 producción, entender por qué hace lo que hace, y dejarlo más rápido, más seguro y más
@@ -49,6 +50,13 @@ fácil de mantener que como lo encontré.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
+**Móvil y escritorio**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
 **Infra y herramientas**
 
 ![Linux VPS](https://img.shields.io/badge/Linux%20VPS-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -76,10 +84,11 @@ fácil de mantener que como lo encontré.
 - Backend en Node con **control de concurrencia (locking)** para que dos clientes nunca tomen el mismo espacio
 - Lógica de negocio en **PL/pgSQL**, dentro de la base
 - Desplegado en **VPS propio**: puertos, Nginx, variables de entorno, health checks y **CI/CD** en cada push
-- Integraciones: Google OAuth, Google Calendar, Resend, Onvo, Twilio
+- Integraciones: Google OAuth, Google Calendar, Resend, Onvo (tarjeta y SINPE Móvil), WhatsApp (Meta), Twilio
+- App del panel en **Flutter** para Android y Windows, con notificaciones push
 - Endurecimiento de seguridad: headers, rate limiting y comparación en tiempo constante en webhooks
 
-`React` `Node.js` `PostgreSQL` `Supabase` `VPS`
+`React` `Node.js` `PostgreSQL` `Supabase` `Flutter` `VPS`
 
 </td>
 <td width="50%" valign="top">
@@ -97,6 +106,36 @@ fácil de mantener que como lo encontré.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧾 <a href="https://coddily.com/works/agromag-ventas">Agromag Ventas</a> · `2026`
+
+**Punto de venta e inventario a la medida** para un agroservicio y clínica veterinaria, en producción.
+
+- Ventas desde el celular o la caja, con comprobante impreso
+- Inventario que se descuenta al instante
+- Cierre del día por método de pago y por empleado
+- Corre en el **servidor del cliente** con HTTPS y respaldos automáticos
+
+`Astro` `Node.js` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 📲 <a href="https://coddily.com/works/okuru">Okuru</a> · `2026`
+
+**App para pasar archivos y textos entre dispositivos**, sin nube ni cuenta.
+
+- Encuentra los dispositivos de la red y envía directo por WiFi
+- Emparejamiento con criptografía **X25519**
+- Envío por internet **cifrado de extremo a extremo** con un relay propio
+- Integración nativa en **Windows** y **Android**
+
+`Flutter` `Dart` `Kotlin` `C++`
+
+</td>
+</tr>
 </table>
 
 ---
@@ -105,7 +144,7 @@ fácil de mantener que como lo encontré.
 
 | | |
 |---|---|
-| 🎓 **Universidad** | Ingeniería en Sistemas de la Información — UNA, tercer año |
+| 🎓 **Universidad** | Ingeniería en Sistemas de la Información — Universidad Nacional de Costa Rica (UNA) |
 | 📜 **Certificaciones** | Git y GitHub (Alura) · AWS *(en curso)* |
 | 🌐 **Redes** | Conmutación, Enrutamiento y Redes Inalámbricas · Introducción a las Redes — **UCR** |
 | 🗣️ **Idiomas** | Español (nativo) · Inglés (B2) |
